@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/project202104/static/css/main.6d1c1de1.chunk.css",
+    "main.js": "/project202104/static/js/main.db1d892d.chunk.js",
+    "main.js.map": "/project202104/static/js/main.db1d892d.chunk.js.map",
+    "runtime-main.js": "/project202104/static/js/runtime-main.4c017c10.js",
+    "runtime-main.js.map": "/project202104/static/js/runtime-main.4c017c10.js.map",
+    "static/css/2.eece65b9.chunk.css": "/project202104/static/css/2.eece65b9.chunk.css",
+    "static/js/2.69bf6b11.chunk.js": "/project202104/static/js/2.69bf6b11.chunk.js",
+    "static/js/2.69bf6b11.chunk.js.map": "/project202104/static/js/2.69bf6b11.chunk.js.map",
+    "static/js/3.4c404e12.chunk.js": "/project202104/static/js/3.4c404e12.chunk.js",
+    "static/js/3.4c404e12.chunk.js.map": "/project202104/static/js/3.4c404e12.chunk.js.map",
+    "index.html": "/project202104/index.html",
+    "static/css/2.eece65b9.chunk.css.map": "/project202104/static/css/2.eece65b9.chunk.css.map",
+    "static/css/main.6d1c1de1.chunk.css.map": "/project202104/static/css/main.6d1c1de1.chunk.css.map",
+    "static/js/2.69bf6b11.chunk.js.LICENSE.txt": "/project202104/static/js/2.69bf6b11.chunk.js.LICENSE.txt",
+    "static/media/android.ab6540e9.jpg": "/project202104/static/media/android.ab6540e9.jpg",
+    "static/media/custom.css": "/project202104/static/media/banner.9b13087b.jpg",
+    "static/media/bill.22e13756.jpg": "/project202104/static/media/bill.22e13756.jpg",
+    "static/media/course.504cb628.jpg": "/project202104/static/media/course.504cb628.jpg",
+    "static/media/graphics.feaa53b0.svg": "/project202104/static/media/graphics.feaa53b0.svg",
+    "static/media/mobile.7666d101.svg": "/project202104/static/media/mobile.7666d101.svg",
+    "static/media/navlogo.23370488.svg": "/project202104/static/media/navlogo.23370488.svg",
+    "static/media/navlogoScroll.08979c05.svg": "/project202104/static/media/navlogoScroll.08979c05.svg",
+    "static/media/slick-theme.css": "/project202104/static/media/slick.c94f7671.ttf",
+    "static/media/web.4fe6cfd3.svg": "/project202104/static/media/web.4fe6cfd3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c017c10.js",
+    "static/css/2.eece65b9.chunk.css",
+    "static/js/2.69bf6b11.chunk.js",
+    "static/css/main.6d1c1de1.chunk.css",
+    "static/js/main.db1d892d.chunk.js"
+  ]
+}
